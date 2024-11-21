@@ -18,6 +18,13 @@ Designing a Custom ESP32 Board with USB-C in Altium Designer: Schematic and PCB 
 </p>
 
 
+## 3D View
+
+<div align="center">
+  
+  [Video 1](https://github.com/user-attachments/assets/cc5ed295-eb19-411b-a87f-192d52664aad)
+
+</div>
 
 
 
